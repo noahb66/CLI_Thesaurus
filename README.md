@@ -2,7 +2,7 @@
 
 Hello, this is a very simple command line Thesaurus app!
 
-You will need to install the requests and modules for it to work!
+You will need to install the requests and bs4 modules for it to work!
 
 pip install requests
 
